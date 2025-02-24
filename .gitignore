@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+question_tags.csv
+
+questions.csv
+
+stackoverflow.zip
+
+
+# End of https://www.toptal.com/python/gitignore file
